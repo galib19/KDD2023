@@ -1,0 +1,1 @@
+Climate historical daily maximum temperature data can be downloaded from here: https://www.narccap.ucar.edu/data/index.html
