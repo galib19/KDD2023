@@ -1,6 +1,6 @@
 # KDD2023
 
-SelfEXT
+SelfEXT - framework
 
 ## Data: All the data sources are available in the Data Folder
 
